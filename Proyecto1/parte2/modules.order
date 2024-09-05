@@ -1,0 +1,1 @@
+/home/emilia/SopesLab/SO1_2S2024_200915633/LaboratorioSopes/SO1_2S2024_200915633/Proyecto1/parte2/informacion.o
