@@ -1322,3 +1322,1918 @@ Iniciando contenedor DqEbZtTv con imagen om64goe7
 27f54b023f3331cea19e0b891bc0b55b22ec6938202e01c73804a55cf19ee7fa
 Iniciando contenedor FYJO7Rpq con imagen tel8almk
 901b9920908dfae041463752297449bc1ca75299e308a8711fc70294aaeac3e8
+Creando imagen hzfbclhw
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile:
+#1 transferring dockerfile: 110B 0.0s done
+#1 DONE 0.6s
+
+#2 [internal] load metadata for docker.io/library/ubuntu:latest
+#2 DONE 2.3s
+
+#3 [internal] load .dockerignore
+#3 transferring context:
+#3 transferring context: 2B done
+#3 DONE 0.8s
+
+#4 [1/1] FROM docker.io/library/ubuntu:latest@sha256:8a37d68f4f73ebf3d4efafbcf66379bf3728902a8038616808f04e34a9ab63ee
+#4 CACHED
+
+#5 exporting to image
+#5 exporting layers
+#5 exporting layers done
+#5 writing image sha256:5e6fbfa3e969114c5a218088e6527437f0b85c610df8c13dfa0276316f0c8876 0.0s done
+#5 naming to docker.io/library/hzfbclhw 0.1s done
+#5 DONE 0.1s
+Creando imagen fb0tcfl8
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 182B done
+#1 DONE 0.2s
+
+#2 [internal] load metadata for docker.io/library/ubuntu:latest
+#2 DONE 0.4s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.2s
+
+#4 [1/2] FROM docker.io/library/ubuntu:latest@sha256:8a37d68f4f73ebf3d4efafbcf66379bf3728902a8038616808f04e34a9ab63ee
+#4 DONE 0.0s
+
+#5 [2/2] RUN apt-get update && apt-get install -y stress
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:473d7b118f878b844729f50c8b395fc8699501390d2287066e4c2a43e95127a3 0.1s done
+#6 naming to docker.io/library/fb0tcfl8 0.1s done
+#6 DONE 0.2s
+Creando imagen e9q87w9o
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile:
+#1 transferring dockerfile: 146B done
+#1 DONE 0.4s
+
+#2 [internal] load metadata for docker.io/library/ubuntu:latest
+#2 DONE 0.8s
+
+#3 [internal] load .dockerignore
+#3 transferring context:
+#3 transferring context: 2B done
+#3 DONE 0.4s
+
+#4 [1/2] FROM docker.io/library/ubuntu:latest@sha256:8a37d68f4f73ebf3d4efafbcf66379bf3728902a8038616808f04e34a9ab63ee
+#4 DONE 0.0s
+
+#5 [2/2] RUN apt-get update && apt-get install -y stress
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:a6262f387333df6c66cb7c3e5b3ed305e9b881d901f1b3f6649729f6b3f9d245 0.0s done
+#6 naming to docker.io/library/e9q87w9o 0.1s done
+#6 DONE 0.2s
+Creando imagen s7ymy9q7
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 146B done
+#1 DONE 0.2s
+
+#2 [internal] load metadata for docker.io/library/ubuntu:latest
+#2 DONE 0.5s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.3s
+
+#4 [1/2] FROM docker.io/library/ubuntu:latest@sha256:8a37d68f4f73ebf3d4efafbcf66379bf3728902a8038616808f04e34a9ab63ee
+#4 DONE 0.0s
+
+#5 [2/2] RUN apt-get update && apt-get install -y stress
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:a6262f387333df6c66cb7c3e5b3ed305e9b881d901f1b3f6649729f6b3f9d245
+#6 writing image sha256:a6262f387333df6c66cb7c3e5b3ed305e9b881d901f1b3f6649729f6b3f9d245 0.2s done
+#6 naming to docker.io/library/s7ymy9q7
+#6 naming to docker.io/library/s7ymy9q7 0.3s done
+#6 DONE 0.5s
+Creando imagen om1g4h63
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 110B done
+#1 DONE 0.2s
+
+#2 [internal] load metadata for docker.io/library/ubuntu:latest
+#2 DONE 1.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.2s
+
+#4 [1/1] FROM docker.io/library/ubuntu:latest@sha256:8a37d68f4f73ebf3d4efafbcf66379bf3728902a8038616808f04e34a9ab63ee
+#4 CACHED
+
+#5 exporting to image
+#5 exporting layers
+#5 exporting layers done
+#5 writing image sha256:5e6fbfa3e969114c5a218088e6527437f0b85c610df8c13dfa0276316f0c8876 0.0s done
+#5 naming to docker.io/library/om1g4h63 0.1s done
+#5 DONE 0.2s
+Creando imagen ill2tflf
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 110B done
+#1 DONE 0.2s
+
+#2 [internal] load metadata for docker.io/library/ubuntu:latest
+#2 DONE 0.4s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.2s
+
+#4 [1/1] FROM docker.io/library/ubuntu:latest@sha256:8a37d68f4f73ebf3d4efafbcf66379bf3728902a8038616808f04e34a9ab63ee
+#4 CACHED
+
+#5 exporting to image
+#5 exporting layers done
+#5 writing image sha256:5e6fbfa3e969114c5a218088e6527437f0b85c610df8c13dfa0276316f0c8876 0.0s done
+#5 naming to docker.io/library/ill2tflf
+#5 naming to docker.io/library/ill2tflf 0.1s done
+#5 DONE 0.2s
+Creando imagen ck6dhj3k
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 110B done
+#1 DONE 0.3s
+
+#2 [internal] load metadata for docker.io/library/ubuntu:latest
+#2 DONE 0.5s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.2s
+
+#4 [1/1] FROM docker.io/library/ubuntu:latest@sha256:8a37d68f4f73ebf3d4efafbcf66379bf3728902a8038616808f04e34a9ab63ee
+#4 CACHED
+
+#5 exporting to image
+#5 exporting layers done
+#5 writing image sha256:5e6fbfa3e969114c5a218088e6527437f0b85c610df8c13dfa0276316f0c8876 0.0s done
+#5 naming to docker.io/library/ck6dhj3k 0.1s done
+#5 DONE 0.2s
+Creando imagen muy9f25u
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 110B done
+#1 DONE 0.3s
+
+#2 [internal] load metadata for docker.io/library/ubuntu:latest
+#2 DONE 0.8s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.2s
+
+#4 [1/1] FROM docker.io/library/ubuntu:latest@sha256:8a37d68f4f73ebf3d4efafbcf66379bf3728902a8038616808f04e34a9ab63ee
+#4 CACHED
+
+#5 exporting to image
+#5 exporting layers
+#5 exporting layers done
+#5 writing image sha256:5e6fbfa3e969114c5a218088e6527437f0b85c610df8c13dfa0276316f0c8876 0.1s done
+#5 naming to docker.io/library/muy9f25u 0.1s done
+#5 DONE 0.2s
+Creando imagen 6szhca9w
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 146B done
+#1 DONE 0.2s
+
+#2 [internal] load metadata for docker.io/library/ubuntu:latest
+#2 DONE 0.7s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.2s
+
+#4 [1/2] FROM docker.io/library/ubuntu:latest@sha256:8a37d68f4f73ebf3d4efafbcf66379bf3728902a8038616808f04e34a9ab63ee
+#4 DONE 0.0s
+
+#5 [2/2] RUN apt-get update && apt-get install -y stress
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:a6262f387333df6c66cb7c3e5b3ed305e9b881d901f1b3f6649729f6b3f9d245 0.0s done
+#6 naming to docker.io/library/6szhca9w 0.1s done
+#6 DONE 0.3s
+Creando imagen yj5ewbi1
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 146B done
+#1 DONE 0.2s
+
+#2 [internal] load metadata for docker.io/library/ubuntu:latest
+#2 DONE 0.6s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.2s
+
+#4 [1/2] FROM docker.io/library/ubuntu:latest@sha256:8a37d68f4f73ebf3d4efafbcf66379bf3728902a8038616808f04e34a9ab63ee
+#4 DONE 0.0s
+
+#5 [2/2] RUN apt-get update && apt-get install -y stress
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:a6262f387333df6c66cb7c3e5b3ed305e9b881d901f1b3f6649729f6b3f9d245 0.1s done
+#6 naming to docker.io/library/yj5ewbi1
+#6 naming to docker.io/library/yj5ewbi1 0.1s done
+#6 DONE 0.2s
+Iniciando contenedor 3h4lyQTi con imagen ck6dhj3k
+390d35755fb455b7f2834efab11500c6977494996150e2064b877e406d98e4b1
+Iniciando contenedor g7sJsZOG con imagen om1g4h63
+45cabc617feef6f915fdfa1d04c1d42c781994169d5c6f6aebd29f6bdbd3130b
+Iniciando contenedor B0TsObA5 con imagen ill2tflf
+33309182cace0dfc50cabef3cfb99b63e10c476b0288873ce55803532fdd743d
+Iniciando contenedor uerOem7P con imagen e9q87w9o
+4c36d58a7011b29898de9a876bdd6f90a4a434678a59a0299ab9c9836b411cbb
+Iniciando contenedor UjJ6rLnp con imagen 6szhca9w
+167358763caca1bd105c94ec2f689d0e0ebf2bb4445ef3c06a933963236da203
+Iniciando contenedor snPgcV5m con imagen yj5ewbi1
+e0ca998fd7290ae92ca20a610dbd35a0d9c26730a5f5198376d90c21c4a81d16
+Iniciando contenedor UYPCB71k con imagen om1g4h63
+d34535fa70e77c3180b02997813baacd5b8475795b73e1467794bc2dd83765bc
+Iniciando contenedor C1JubO3n con imagen fb0tcfl8
+c81bde5a13daf4c3c975cf21b7f826e963d6284d94bc05dadccdd2e1360fbf3b
+Iniciando contenedor KM2PwVa2 con imagen ck6dhj3k
+c45111fa1cac8c6511b68c64cd2d807f5aa4c84ff4143552c3ba2d43cea44047
+Iniciando contenedor IYjsKX52 con imagen hzfbclhw
+9089a8f4d84ba34f7f48ea874454d23e163c5a717a5c3ce23106528845883406
+Creando imagen q2igzyv6
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 182B done
+#1 DONE 0.3s
+
+#2 [internal] load metadata for docker.io/library/ubuntu:latest
+#2 DONE 1.2s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.3s
+
+#4 [1/2] FROM docker.io/library/ubuntu:latest@sha256:8a37d68f4f73ebf3d4efafbcf66379bf3728902a8038616808f04e34a9ab63ee
+#4 DONE 0.0s
+
+#5 [2/2] RUN apt-get update && apt-get install -y stress
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:473d7b118f878b844729f50c8b395fc8699501390d2287066e4c2a43e95127a3
+#6 writing image sha256:473d7b118f878b844729f50c8b395fc8699501390d2287066e4c2a43e95127a3 0.1s done
+#6 naming to docker.io/library/q2igzyv6 0.1s done
+#6 DONE 0.2s
+Creando imagen y81g0f8v
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 110B done
+#1 DONE 0.3s
+
+#2 [internal] load metadata for docker.io/library/ubuntu:latest
+#2 DONE 0.8s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.2s
+
+#4 [1/1] FROM docker.io/library/ubuntu:latest@sha256:8a37d68f4f73ebf3d4efafbcf66379bf3728902a8038616808f04e34a9ab63ee
+#4 CACHED
+
+#5 exporting to image
+#5 exporting layers done
+#5 writing image sha256:5e6fbfa3e969114c5a218088e6527437f0b85c610df8c13dfa0276316f0c8876
+#5 writing image sha256:5e6fbfa3e969114c5a218088e6527437f0b85c610df8c13dfa0276316f0c8876 0.1s done
+#5 naming to docker.io/library/y81g0f8v 0.1s done
+#5 DONE 0.2s
+Creando imagen gbqqfj2g
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 146B done
+#1 DONE 0.2s
+
+#2 [internal] load metadata for docker.io/library/ubuntu:latest
+#2 DONE 0.5s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.2s
+
+#4 [1/2] FROM docker.io/library/ubuntu:latest@sha256:8a37d68f4f73ebf3d4efafbcf66379bf3728902a8038616808f04e34a9ab63ee
+#4 DONE 0.0s
+
+#5 [2/2] RUN apt-get update && apt-get install -y stress
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:a6262f387333df6c66cb7c3e5b3ed305e9b881d901f1b3f6649729f6b3f9d245 0.0s done
+#6 naming to docker.io/library/gbqqfj2g 0.1s done
+#6 DONE 0.2s
+Creando imagen 22i3s5pe
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 110B done
+#1 DONE 0.2s
+
+#2 [internal] load metadata for docker.io/library/ubuntu:latest
+#2 DONE 0.5s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.2s
+
+#4 [1/1] FROM docker.io/library/ubuntu:latest@sha256:8a37d68f4f73ebf3d4efafbcf66379bf3728902a8038616808f04e34a9ab63ee
+#4 CACHED
+
+#5 exporting to image
+#5 exporting layers done
+#5 writing image sha256:5e6fbfa3e969114c5a218088e6527437f0b85c610df8c13dfa0276316f0c8876
+#5 writing image sha256:5e6fbfa3e969114c5a218088e6527437f0b85c610df8c13dfa0276316f0c8876 0.0s done
+#5 naming to docker.io/library/22i3s5pe 0.1s done
+#5 DONE 0.2s
+Creando imagen 8jsg13a8
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 146B done
+#1 DONE 0.2s
+
+#2 [internal] load metadata for docker.io/library/ubuntu:latest
+#2 DONE 1.1s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.2s
+
+#4 [1/2] FROM docker.io/library/ubuntu:latest@sha256:8a37d68f4f73ebf3d4efafbcf66379bf3728902a8038616808f04e34a9ab63ee
+#4 DONE 0.0s
+
+#5 [2/2] RUN apt-get update && apt-get install -y stress
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:a6262f387333df6c66cb7c3e5b3ed305e9b881d901f1b3f6649729f6b3f9d245 0.0s done
+#6 naming to docker.io/library/8jsg13a8 0.1s done
+#6 DONE 0.1s
+Creando imagen kdt2fvwn
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 146B done
+#1 DONE 0.2s
+
+#2 [internal] load metadata for docker.io/library/ubuntu:latest
+#2 DONE 0.4s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.3s
+
+#4 [1/2] FROM docker.io/library/ubuntu:latest@sha256:8a37d68f4f73ebf3d4efafbcf66379bf3728902a8038616808f04e34a9ab63ee
+#4 DONE 0.0s
+
+#5 [2/2] RUN apt-get update && apt-get install -y stress
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:a6262f387333df6c66cb7c3e5b3ed305e9b881d901f1b3f6649729f6b3f9d245 0.0s done
+#6 naming to docker.io/library/kdt2fvwn 0.1s done
+#6 DONE 0.2s
+Creando imagen fe7zjukv
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 110B done
+#1 DONE 0.2s
+
+#2 [internal] load metadata for docker.io/library/ubuntu:latest
+#2 DONE 0.6s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.2s
+
+#4 [1/1] FROM docker.io/library/ubuntu:latest@sha256:8a37d68f4f73ebf3d4efafbcf66379bf3728902a8038616808f04e34a9ab63ee
+#4 CACHED
+
+#5 exporting to image
+#5 exporting layers
+#5 exporting layers done
+#5 writing image sha256:faf3850eae1ee106f19cb84fa06b56a4f220019f19445994021ebc8c79f120b2 0.0s done
+#5 naming to docker.io/library/fe7zjukv 0.1s done
+#5 DONE 0.2s
+Creando imagen wl94v3vx
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 146B done
+#1 DONE 0.2s
+
+#2 [internal] load metadata for docker.io/library/ubuntu:latest
+#2 DONE 0.6s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.3s
+
+#4 [1/2] FROM docker.io/library/ubuntu:latest@sha256:8a37d68f4f73ebf3d4efafbcf66379bf3728902a8038616808f04e34a9ab63ee
+#4 DONE 0.0s
+
+#5 [2/2] RUN apt-get update && apt-get install -y stress
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:a6262f387333df6c66cb7c3e5b3ed305e9b881d901f1b3f6649729f6b3f9d245 0.1s done
+#6 naming to docker.io/library/wl94v3vx 0.1s done
+#6 DONE 0.2s
+Creando imagen m6kkhrz3
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 110B done
+#1 DONE 0.2s
+
+#2 [internal] load metadata for docker.io/library/ubuntu:latest
+#2 DONE 0.6s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.2s
+
+#4 [1/1] FROM docker.io/library/ubuntu:latest@sha256:8a37d68f4f73ebf3d4efafbcf66379bf3728902a8038616808f04e34a9ab63ee
+#4 CACHED
+
+#5 exporting to image
+#5 exporting layers done
+#5 writing image sha256:faf3850eae1ee106f19cb84fa06b56a4f220019f19445994021ebc8c79f120b2 0.0s done
+#5 naming to docker.io/library/m6kkhrz3 0.1s done
+#5 DONE 0.1s
+Creando imagen lo6yninb
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile:
+#1 transferring dockerfile: 182B done
+#1 DONE 0.5s
+
+#2 [internal] load metadata for docker.io/library/ubuntu:latest
+#2 DONE 0.6s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.3s
+
+#4 [1/2] FROM docker.io/library/ubuntu:latest@sha256:8a37d68f4f73ebf3d4efafbcf66379bf3728902a8038616808f04e34a9ab63ee
+#4 DONE 0.0s
+
+#5 [2/2] RUN apt-get update && apt-get install -y stress
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:473d7b118f878b844729f50c8b395fc8699501390d2287066e4c2a43e95127a3 0.0s done
+#6 naming to docker.io/library/lo6yninb
+#6 naming to docker.io/library/lo6yninb 0.1s done
+#6 DONE 0.2s
+Iniciando contenedor Vy1JnJsN con imagen y81g0f8v
+6a32ac18bb1f3689edf8eeabb8f4c668ea3ef9f5e64fa829547364c5b30f392a
+Iniciando contenedor bCV0ABar con imagen kdt2fvwn
+b05f980abe09dd04df754c97c04b8190ed1f625370aca6b7498f6d8a2e2b3390
+Iniciando contenedor 2ITmmVBB con imagen q2igzyv6
+9c187e49a539348e10fc6d3edaeff829b565cf74ae26d38b106d440a3e36e4ec
+Iniciando contenedor elU4qF6y con imagen y81g0f8v
+d1e75eb4f3a78fa1dccaf562fa58dcd2e794c71b97f791c10c933311dc500dfd
+Iniciando contenedor QezAkLaT con imagen fe7zjukv
+2b70a3b35d567b35b4873cda3ae4773657d026d07d9dbabbcdaf8edcbc84e778
+Iniciando contenedor iMHCSqmQ con imagen 22i3s5pe
+caf27a7b4b421a0c8bf75419879b73555e02bba511ef78c45cc3627fb719dc72
+Iniciando contenedor 9KbFad6x con imagen 8jsg13a8
+81bd74a540cb28c83c6282eddf1327150841684baaa757d8a0ae72b94ba5a2c2
+Iniciando contenedor RLZ5mgV1 con imagen gbqqfj2g
+a68d20136c48fe071f8abfa37a84af786997d80705225a79f07178472e92cec7
+Iniciando contenedor LuAldblA con imagen wl94v3vx
+8accb0bf1ec607db157760d65ee600be144dff9d69f6640c7d7878ef519cb716
+Iniciando contenedor yS9GUbmo con imagen fe7zjukv
+97e2907695211c7f409e7ce3a8500d41cc24eaebbce1848fbf9d830ddaa22369
+Creando imagen 26zzeatm
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 146B done
+#1 DONE 0.2s
+
+#2 [internal] load metadata for docker.io/library/ubuntu:latest
+#2 DONE 1.1s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.2s
+
+#4 [1/2] FROM docker.io/library/ubuntu:latest@sha256:8a37d68f4f73ebf3d4efafbcf66379bf3728902a8038616808f04e34a9ab63ee
+#4 DONE 0.0s
+
+#5 [2/2] RUN apt-get update && apt-get install -y stress
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:a6262f387333df6c66cb7c3e5b3ed305e9b881d901f1b3f6649729f6b3f9d245 0.0s done
+#6 naming to docker.io/library/26zzeatm 0.1s done
+#6 DONE 0.1s
+Creando imagen 4s2czvxe
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 182B done
+#1 DONE 0.4s
+
+#2 [internal] load metadata for docker.io/library/ubuntu:latest
+#2 DONE 0.8s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.3s
+
+#4 [1/2] FROM docker.io/library/ubuntu:latest@sha256:8a37d68f4f73ebf3d4efafbcf66379bf3728902a8038616808f04e34a9ab63ee
+#4 DONE 0.0s
+
+#5 [2/2] RUN apt-get update && apt-get install -y stress
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:473d7b118f878b844729f50c8b395fc8699501390d2287066e4c2a43e95127a3
+#6 writing image sha256:473d7b118f878b844729f50c8b395fc8699501390d2287066e4c2a43e95127a3 0.1s done
+#6 naming to docker.io/library/4s2czvxe 0.1s done
+#6 DONE 0.2s
+Creando imagen 2slw16h7
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 146B done
+#1 DONE 0.2s
+
+#2 [internal] load metadata for docker.io/library/ubuntu:latest
+#2 DONE 0.5s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.3s
+
+#4 [1/2] FROM docker.io/library/ubuntu:latest@sha256:8a37d68f4f73ebf3d4efafbcf66379bf3728902a8038616808f04e34a9ab63ee
+#4 DONE 0.0s
+
+#5 [2/2] RUN apt-get update && apt-get install -y stress
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:a6262f387333df6c66cb7c3e5b3ed305e9b881d901f1b3f6649729f6b3f9d245 0.0s done
+#6 naming to docker.io/library/2slw16h7 0.1s done
+#6 DONE 0.2s
+Creando imagen si7qtm6g
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 110B done
+#1 DONE 0.3s
+
+#2 [internal] load metadata for docker.io/library/ubuntu:latest
+#2 DONE 0.5s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.3s
+
+#4 [1/1] FROM docker.io/library/ubuntu:latest@sha256:8a37d68f4f73ebf3d4efafbcf66379bf3728902a8038616808f04e34a9ab63ee
+#4 CACHED
+
+#5 exporting to image
+#5 exporting layers done
+#5 writing image sha256:faf3850eae1ee106f19cb84fa06b56a4f220019f19445994021ebc8c79f120b2 0.0s done
+#5 naming to docker.io/library/si7qtm6g 0.1s done
+#5 DONE 0.2s
+Creando imagen ohokjvzd
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 110B done
+#1 DONE 0.3s
+
+#2 [internal] load metadata for docker.io/library/ubuntu:latest
+#2 DONE 0.5s
+
+#3 [internal] load .dockerignore
+#3 transferring context:
+#3 transferring context: 2B 0.0s done
+#3 DONE 0.3s
+
+#4 [1/1] FROM docker.io/library/ubuntu:latest@sha256:8a37d68f4f73ebf3d4efafbcf66379bf3728902a8038616808f04e34a9ab63ee
+#4 CACHED
+
+#5 exporting to image
+#5 exporting layers
+#5 exporting layers done
+#5 writing image sha256:faf3850eae1ee106f19cb84fa06b56a4f220019f19445994021ebc8c79f120b2 0.0s done
+#5 naming to docker.io/library/ohokjvzd 0.1s done
+#5 DONE 0.2s
+Creando imagen xlemceq9
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 110B done
+#1 DONE 0.2s
+
+#2 [internal] load metadata for docker.io/library/ubuntu:latest
+#2 DONE 0.7s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.2s
+
+#4 [1/1] FROM docker.io/library/ubuntu:latest@sha256:8a37d68f4f73ebf3d4efafbcf66379bf3728902a8038616808f04e34a9ab63ee
+#4 CACHED
+
+#5 exporting to image
+#5 exporting layers done
+#5 writing image sha256:faf3850eae1ee106f19cb84fa06b56a4f220019f19445994021ebc8c79f120b2
+#5 writing image sha256:faf3850eae1ee106f19cb84fa06b56a4f220019f19445994021ebc8c79f120b2 0.0s done
+#5 naming to docker.io/library/xlemceq9 0.1s done
+#5 DONE 0.2s
+Creando imagen p7skysc0
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 182B done
+#1 DONE 0.3s
+
+#2 [internal] load metadata for docker.io/library/ubuntu:latest
+#2 DONE 0.6s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.2s
+
+#4 [1/2] FROM docker.io/library/ubuntu:latest@sha256:8a37d68f4f73ebf3d4efafbcf66379bf3728902a8038616808f04e34a9ab63ee
+#4 DONE 0.0s
+
+#5 [2/2] RUN apt-get update && apt-get install -y stress
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:473d7b118f878b844729f50c8b395fc8699501390d2287066e4c2a43e95127a3 0.0s done
+#6 naming to docker.io/library/p7skysc0 0.1s done
+#6 DONE 0.1s
+Creando imagen vqkocnkt
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 182B done
+#1 DONE 0.2s
+
+#2 [internal] load metadata for docker.io/library/ubuntu:latest
+#2 DONE 0.4s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.2s
+
+#4 [1/2] FROM docker.io/library/ubuntu:latest@sha256:8a37d68f4f73ebf3d4efafbcf66379bf3728902a8038616808f04e34a9ab63ee
+#4 DONE 0.0s
+
+#5 [2/2] RUN apt-get update && apt-get install -y stress
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:473d7b118f878b844729f50c8b395fc8699501390d2287066e4c2a43e95127a3 0.0s done
+#6 naming to docker.io/library/vqkocnkt
+#6 naming to docker.io/library/vqkocnkt 0.1s done
+#6 DONE 0.2s
+Creando imagen nbj4lk7q
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 146B done
+#1 DONE 0.2s
+
+#2 [internal] load metadata for docker.io/library/ubuntu:latest
+#2 DONE 0.5s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.2s
+
+#4 [1/2] FROM docker.io/library/ubuntu:latest@sha256:8a37d68f4f73ebf3d4efafbcf66379bf3728902a8038616808f04e34a9ab63ee
+#4 DONE 0.0s
+
+#5 [2/2] RUN apt-get update && apt-get install -y stress
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:a6262f387333df6c66cb7c3e5b3ed305e9b881d901f1b3f6649729f6b3f9d245 0.0s done
+#6 naming to docker.io/library/nbj4lk7q 0.1s done
+#6 DONE 0.1s
+Creando imagen nab8p2jl
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 182B done
+#1 DONE 0.3s
+
+#2 [internal] load metadata for docker.io/library/ubuntu:latest
+#2 DONE 0.5s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.2s
+
+#4 [1/2] FROM docker.io/library/ubuntu:latest@sha256:8a37d68f4f73ebf3d4efafbcf66379bf3728902a8038616808f04e34a9ab63ee
+#4 DONE 0.0s
+
+#5 [2/2] RUN apt-get update && apt-get install -y stress
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:473d7b118f878b844729f50c8b395fc8699501390d2287066e4c2a43e95127a3 0.0s done
+#6 naming to docker.io/library/nab8p2jl
+#6 naming to docker.io/library/nab8p2jl 0.0s done
+#6 DONE 0.1s
+Iniciando contenedor wnDZXpuR con imagen nab8p2jl
+9ef972716e6a713902da5ca2bfe4e30bd62e0aedc226922b6f55359cb9bd13b1
+Iniciando contenedor eW6kCSIS con imagen xlemceq9
+21c01a5c49d04241f3f95a0eb3784157cecf75f65119a73ad9358016d860f12f
+Iniciando contenedor PEfR64Ic con imagen nbj4lk7q
+8a8446d2d8d9a7ad01cadbcdf20d517b421057ccdd4f21c869a1974fa439ff3a
+Iniciando contenedor Hf8JxonK con imagen vqkocnkt
+0674740c93d7bcc47ef764865a402e34d718512f59185a4ed0aa5e854fba2a33
+Iniciando contenedor DHHgwMSZ con imagen 26zzeatm
+de49bd27fecdc9cfa5fe560912e58f5b0bffd8b07118fc0519e04f7c9b4282dc
+Iniciando contenedor Pdbqhy0z con imagen ohokjvzd
+b33a901492bb8e438910cdcad5261c63452d950c2dadb9dba161d91e08d2cb9b
+Iniciando contenedor WzYhhTgU con imagen vqkocnkt
+a7231b9925c7e7a7a688fbf54b59c8b18fdba89b6a371b9dfd559b22e36db18e
+Iniciando contenedor ewfID2rl con imagen p7skysc0
+ff97fab523d6e00b9a7841e0b6a59e17e2c87d3862ab22c8e8336d93e3bd8a62
+Iniciando contenedor GuPo9CoR con imagen p7skysc0
+4cdb0967f7b3561d59536844f42d73736fb473ccea0991d6743c7ce2bf45de32
+Iniciando contenedor msDoF2X1 con imagen nab8p2jl
+a51951fdc277b6f6005f057b133606ce88b86a63d646e00527355d20610dec1e
+Creando imagen s4jrt8pc
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile:
+#1 transferring dockerfile: 110B 0.0s done
+#1 DONE 0.3s
+
+#2 [internal] load metadata for docker.io/library/ubuntu:latest
+#2 DONE 1.9s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.2s
+
+#4 [1/1] FROM docker.io/library/ubuntu:latest@sha256:8a37d68f4f73ebf3d4efafbcf66379bf3728902a8038616808f04e34a9ab63ee
+#4 CACHED
+
+#5 exporting to image
+#5 exporting layers done
+#5 writing image sha256:5e6fbfa3e969114c5a218088e6527437f0b85c610df8c13dfa0276316f0c8876
+#5 writing image sha256:5e6fbfa3e969114c5a218088e6527437f0b85c610df8c13dfa0276316f0c8876 0.0s done
+#5 naming to docker.io/library/s4jrt8pc 0.1s done
+#5 DONE 0.1s
+Creando imagen 7ngf53f0
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 182B done
+#1 DONE 0.2s
+
+#2 [internal] load metadata for docker.io/library/ubuntu:latest
+#2 DONE 0.4s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.3s
+
+#4 [1/2] FROM docker.io/library/ubuntu:latest@sha256:8a37d68f4f73ebf3d4efafbcf66379bf3728902a8038616808f04e34a9ab63ee
+#4 DONE 0.0s
+
+#5 [2/2] RUN apt-get update && apt-get install -y stress
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers
+#6 exporting layers done
+#6 writing image sha256:473d7b118f878b844729f50c8b395fc8699501390d2287066e4c2a43e95127a3 0.0s done
+#6 naming to docker.io/library/7ngf53f0 0.1s done
+#6 DONE 0.1s
+Creando imagen jsha6t0t
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile:
+#1 transferring dockerfile: 110B done
+#1 DONE 0.6s
+
+#2 [internal] load metadata for docker.io/library/ubuntu:latest
+#2 DONE 0.6s
+
+#3 [internal] load .dockerignore
+#3 transferring context:
+#3 transferring context: 2B done
+#3 DONE 0.4s
+
+#4 [1/1] FROM docker.io/library/ubuntu:latest@sha256:8a37d68f4f73ebf3d4efafbcf66379bf3728902a8038616808f04e34a9ab63ee
+#4 CACHED
+
+#5 exporting to image
+#5 exporting layers
+#5 exporting layers done
+#5 writing image sha256:faf3850eae1ee106f19cb84fa06b56a4f220019f19445994021ebc8c79f120b2 0.0s done
+#5 naming to docker.io/library/jsha6t0t 0.1s done
+#5 DONE 0.4s
+Creando imagen jyq47c6g
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 146B 0.0s done
+#1 DONE 0.3s
+
+#2 [internal] load metadata for docker.io/library/ubuntu:latest
+#2 DONE 0.6s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.2s
+
+#4 [1/2] FROM docker.io/library/ubuntu:latest@sha256:8a37d68f4f73ebf3d4efafbcf66379bf3728902a8038616808f04e34a9ab63ee
+#4 DONE 0.0s
+
+#5 [2/2] RUN apt-get update && apt-get install -y stress
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:a6262f387333df6c66cb7c3e5b3ed305e9b881d901f1b3f6649729f6b3f9d245
+#6 writing image sha256:a6262f387333df6c66cb7c3e5b3ed305e9b881d901f1b3f6649729f6b3f9d245 0.0s done
+#6 naming to docker.io/library/jyq47c6g 0.1s done
+#6 DONE 0.1s
+Creando imagen lco1dhqy
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 182B done
+#1 DONE 0.3s
+
+#2 [internal] load metadata for docker.io/library/ubuntu:latest
+#2 DONE 0.6s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.2s
+
+#4 [1/2] FROM docker.io/library/ubuntu:latest@sha256:8a37d68f4f73ebf3d4efafbcf66379bf3728902a8038616808f04e34a9ab63ee
+#4 DONE 0.0s
+
+#5 [2/2] RUN apt-get update && apt-get install -y stress
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:473d7b118f878b844729f50c8b395fc8699501390d2287066e4c2a43e95127a3
+#6 writing image sha256:473d7b118f878b844729f50c8b395fc8699501390d2287066e4c2a43e95127a3 0.0s done
+#6 naming to docker.io/library/lco1dhqy 0.1s done
+#6 DONE 0.1s
+Creando imagen 4gw7sjla
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 110B done
+#1 DONE 0.2s
+
+#2 [internal] load metadata for docker.io/library/ubuntu:latest
+#2 DONE 0.6s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.2s
+
+#4 [1/1] FROM docker.io/library/ubuntu:latest@sha256:8a37d68f4f73ebf3d4efafbcf66379bf3728902a8038616808f04e34a9ab63ee
+#4 CACHED
+
+#5 exporting to image
+#5 exporting layers done
+#5 writing image sha256:faf3850eae1ee106f19cb84fa06b56a4f220019f19445994021ebc8c79f120b2
+#5 writing image sha256:faf3850eae1ee106f19cb84fa06b56a4f220019f19445994021ebc8c79f120b2 0.1s done
+#5 naming to docker.io/library/4gw7sjla 0.1s done
+#5 DONE 0.3s
+Creando imagen s9bjbxmt
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 110B done
+#1 DONE 0.2s
+
+#2 [internal] load metadata for docker.io/library/ubuntu:latest
+#2 DONE 0.5s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.3s
+
+#4 [1/1] FROM docker.io/library/ubuntu:latest@sha256:8a37d68f4f73ebf3d4efafbcf66379bf3728902a8038616808f04e34a9ab63ee
+#4 CACHED
+
+#5 exporting to image
+#5 exporting layers done
+#5 writing image sha256:faf3850eae1ee106f19cb84fa06b56a4f220019f19445994021ebc8c79f120b2 0.1s done
+#5 naming to docker.io/library/s9bjbxmt
+#5 naming to docker.io/library/s9bjbxmt 0.1s done
+#5 DONE 0.2s
+Creando imagen kth2jpsh
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 182B done
+#1 DONE 0.4s
+
+#2 [internal] load metadata for docker.io/library/ubuntu:latest
+#2 DONE 0.6s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.2s
+
+#4 [1/2] FROM docker.io/library/ubuntu:latest@sha256:8a37d68f4f73ebf3d4efafbcf66379bf3728902a8038616808f04e34a9ab63ee
+#4 DONE 0.0s
+
+#5 [2/2] RUN apt-get update && apt-get install -y stress
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:473d7b118f878b844729f50c8b395fc8699501390d2287066e4c2a43e95127a3 0.0s done
+#6 naming to docker.io/library/kth2jpsh 0.1s done
+#6 DONE 0.3s
+Creando imagen jzkw34re
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile:
+#1 transferring dockerfile: 182B done
+#1 DONE 1.1s
+
+#2 [internal] load metadata for docker.io/library/ubuntu:latest
+#2 DONE 1.8s
+
+#3 [internal] load .dockerignore
+#3 transferring context:
+#3 transferring context: 2B 0.0s done
+#3 DONE 0.5s
+
+#4 [1/2] FROM docker.io/library/ubuntu:latest@sha256:8a37d68f4f73ebf3d4efafbcf66379bf3728902a8038616808f04e34a9ab63ee
+#4 DONE 0.0s
+
+#5 [2/2] RUN apt-get update && apt-get install -y stress
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:473d7b118f878b844729f50c8b395fc8699501390d2287066e4c2a43e95127a3 0.0s done
+#6 naming to docker.io/library/jzkw34re 0.1s done
+#6 DONE 0.2s
+Creando imagen b0twpcg8
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 110B done
+#1 DONE 0.2s
+
+#2 [internal] load metadata for docker.io/library/ubuntu:latest
+#2 DONE 0.5s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.2s
+
+#4 [1/1] FROM docker.io/library/ubuntu:latest@sha256:8a37d68f4f73ebf3d4efafbcf66379bf3728902a8038616808f04e34a9ab63ee
+#4 CACHED
+
+#5 exporting to image
+#5 exporting layers done
+#5 writing image sha256:faf3850eae1ee106f19cb84fa06b56a4f220019f19445994021ebc8c79f120b2
+#5 writing image sha256:faf3850eae1ee106f19cb84fa06b56a4f220019f19445994021ebc8c79f120b2 0.2s done
+#5 naming to docker.io/library/b0twpcg8
+#5 naming to docker.io/library/b0twpcg8 0.1s done
+#5 DONE 0.3s
+Iniciando contenedor LkzKwlX3 con imagen jzkw34re
+1f57c459084f8d2ad7cf1de1057da49f6e5e019131f3a0c6eeb48304ba747743
+Iniciando contenedor 5j2nAeaN con imagen jzkw34re
+c78baf025a42de0ee0fba04dc9c88063f48ef223b68411c9bd5198890a49bf9f
+Iniciando contenedor rVJAC6ng con imagen jyq47c6g
+8c2c9d8b3edf2cdfc41d7ff8c4acaab2005bd67bb072e755b65613a22d61281e
+Iniciando contenedor WpRIiVFa con imagen jsha6t0t
+d69ea0781c35a5fa402977d7e475ae587aafb60293a6c5803348b37aeae1d766
+Iniciando contenedor 6x2JHmuV con imagen 4gw7sjla
+ffd72d49de16c415ce73c4e7482b9915bb89ac341e1c3ca1e0ebd07bded70876
+Iniciando contenedor WUxeevwj con imagen 4gw7sjla
+917a8ee67fa8fa32ea3dabd8f1a678ea1d30484313559e4d1feea5d8c8741e1c
+Iniciando contenedor vUenGZl2 con imagen s4jrt8pc
+afd7493d0d73521d8aad0b6c97648807c5081ec1ec80a7c6e41d08d7db8a85fb
+Iniciando contenedor yOwFzgE9 con imagen jsha6t0t
+02da948086e4c73b00e62411d695dc813696ab715657c56a18ed914c5b5c9306
+Iniciando contenedor mGtHxY5m con imagen jzkw34re
+79cebd4a25539308b402b2c0f1319f6af6d4af25bd8949e248fc55bb3d2c929e
+Iniciando contenedor BnuD8fxV con imagen jyq47c6g
+e806dc764414642fbc6cfd091f82bb9bf48337957409441229870af9f369e3e8
+Creando imagen g4ik5qsu
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 DONE 0.0s
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile:
+#1 transferring dockerfile: 146B done
+#1 DONE 0.4s
+
+#2 [internal] load metadata for docker.io/library/ubuntu:latest
+#2 DONE 1.3s
+
+#3 [internal] load .dockerignore
+#3 transferring context:
+#3 transferring context: 2B done
+#3 DONE 0.3s
+
+#4 [1/2] FROM docker.io/library/ubuntu:latest@sha256:8a37d68f4f73ebf3d4efafbcf66379bf3728902a8038616808f04e34a9ab63ee
+#4 DONE 0.0s
+
+#5 [2/2] RUN apt-get update && apt-get install -y stress
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers
+#6 exporting layers done
+#6 writing image sha256:a6262f387333df6c66cb7c3e5b3ed305e9b881d901f1b3f6649729f6b3f9d245 0.1s done
+#6 naming to docker.io/library/g4ik5qsu
+#6 naming to docker.io/library/g4ik5qsu 0.1s done
+#6 DONE 0.3s
+Creando imagen 3rmn5x40
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 110B done
+#1 DONE 0.3s
+
+#2 [internal] load metadata for docker.io/library/ubuntu:latest
+#2 DONE 0.5s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.2s
+
+#4 [1/1] FROM docker.io/library/ubuntu:latest@sha256:8a37d68f4f73ebf3d4efafbcf66379bf3728902a8038616808f04e34a9ab63ee
+#4 CACHED
+
+#5 exporting to image
+#5 exporting layers done
+#5 writing image sha256:faf3850eae1ee106f19cb84fa06b56a4f220019f19445994021ebc8c79f120b2 0.1s done
+#5 naming to docker.io/library/3rmn5x40
+#5 naming to docker.io/library/3rmn5x40 0.1s done
+#5 DONE 0.2s
+Creando imagen pcdkycn2
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 146B done
+#1 DONE 0.2s
+
+#2 [internal] load metadata for docker.io/library/ubuntu:latest
+#2 DONE 2.1s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.2s
+
+#4 [1/2] FROM docker.io/library/ubuntu:latest@sha256:8a37d68f4f73ebf3d4efafbcf66379bf3728902a8038616808f04e34a9ab63ee
+#4 DONE 0.0s
+
+#5 [2/2] RUN apt-get update && apt-get install -y stress
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:a6262f387333df6c66cb7c3e5b3ed305e9b881d901f1b3f6649729f6b3f9d245 0.1s done
+#6 naming to docker.io/library/pcdkycn2 0.1s done
+#6 DONE 0.2s
+Creando imagen 90k4oj5w
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 110B done
+#1 DONE 0.3s
+
+#2 [internal] load metadata for docker.io/library/ubuntu:latest
+#2 DONE 0.6s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.2s
+
+#4 [1/1] FROM docker.io/library/ubuntu:latest@sha256:8a37d68f4f73ebf3d4efafbcf66379bf3728902a8038616808f04e34a9ab63ee
+#4 CACHED
+
+#5 exporting to image
+#5 exporting layers done
+#5 writing image sha256:5e6fbfa3e969114c5a218088e6527437f0b85c610df8c13dfa0276316f0c8876 0.1s done
+#5 naming to docker.io/library/90k4oj5w
+#5 naming to docker.io/library/90k4oj5w 0.1s done
+#5 DONE 0.2s
+Creando imagen 0p8ihvdh
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 182B done
+#1 DONE 0.2s
+
+#2 [internal] load metadata for docker.io/library/ubuntu:latest
+#2 DONE 0.5s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.2s
+
+#4 [1/2] FROM docker.io/library/ubuntu:latest@sha256:8a37d68f4f73ebf3d4efafbcf66379bf3728902a8038616808f04e34a9ab63ee
+#4 DONE 0.0s
+
+#5 [2/2] RUN apt-get update && apt-get install -y stress
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:473d7b118f878b844729f50c8b395fc8699501390d2287066e4c2a43e95127a3 0.0s done
+#6 naming to docker.io/library/0p8ihvdh 0.1s done
+#6 DONE 0.1s
+Creando imagen acecbpe7
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 182B done
+#1 DONE 0.2s
+
+#2 [internal] load metadata for docker.io/library/ubuntu:latest
+#2 DONE 0.6s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.2s
+
+#4 [1/2] FROM docker.io/library/ubuntu:latest@sha256:8a37d68f4f73ebf3d4efafbcf66379bf3728902a8038616808f04e34a9ab63ee
+#4 DONE 0.0s
+
+#5 [2/2] RUN apt-get update && apt-get install -y stress
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:473d7b118f878b844729f50c8b395fc8699501390d2287066e4c2a43e95127a3 0.0s done
+#6 naming to docker.io/library/acecbpe7
+#6 naming to docker.io/library/acecbpe7 0.1s done
+#6 DONE 0.2s
+Creando imagen 4idu4yqo
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 146B done
+#1 DONE 0.5s
+
+#2 [internal] load metadata for docker.io/library/ubuntu:latest
+#2 DONE 0.5s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.3s
+
+#4 [1/2] FROM docker.io/library/ubuntu:latest@sha256:8a37d68f4f73ebf3d4efafbcf66379bf3728902a8038616808f04e34a9ab63ee
+#4 DONE 0.0s
+
+#5 [2/2] RUN apt-get update && apt-get install -y stress
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:a6262f387333df6c66cb7c3e5b3ed305e9b881d901f1b3f6649729f6b3f9d245 0.1s done
+#6 naming to docker.io/library/4idu4yqo 0.1s done
+#6 DONE 0.2s
+Creando imagen ofqo2rb6
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 110B done
+#1 DONE 0.2s
+
+#2 [internal] load metadata for docker.io/library/ubuntu:latest
+#2 DONE 0.7s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.3s
+
+#4 [1/1] FROM docker.io/library/ubuntu:latest@sha256:8a37d68f4f73ebf3d4efafbcf66379bf3728902a8038616808f04e34a9ab63ee
+#4 CACHED
+
+#5 exporting to image
+#5 exporting layers done
+#5 writing image sha256:5e6fbfa3e969114c5a218088e6527437f0b85c610df8c13dfa0276316f0c8876 0.0s done
+#5 naming to docker.io/library/ofqo2rb6 0.1s done
+#5 DONE 0.2s
+Creando imagen xlg2vry6
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 110B done
+#1 DONE 0.2s
+
+#2 [internal] load metadata for docker.io/library/ubuntu:latest
+#2 DONE 0.8s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.3s
+
+#4 [1/1] FROM docker.io/library/ubuntu:latest@sha256:8a37d68f4f73ebf3d4efafbcf66379bf3728902a8038616808f04e34a9ab63ee
+#4 CACHED
+
+#5 exporting to image
+#5 exporting layers
+#5 exporting layers done
+#5 writing image sha256:faf3850eae1ee106f19cb84fa06b56a4f220019f19445994021ebc8c79f120b2 0.1s done
+#5 naming to docker.io/library/xlg2vry6 0.1s done
+#5 DONE 0.2s
+Creando imagen 83g4j9kz
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 110B done
+#1 DONE 0.3s
+
+#2 [internal] load metadata for docker.io/library/ubuntu:latest
+#2 DONE 1.0s
+
+#3 [internal] load .dockerignore
+#3 transferring context:
+#3 transferring context: 2B done
+#3 DONE 0.4s
+
+#4 [1/1] FROM docker.io/library/ubuntu:latest@sha256:8a37d68f4f73ebf3d4efafbcf66379bf3728902a8038616808f04e34a9ab63ee
+#4 CACHED
+
+#5 exporting to image
+#5 exporting layers
+#5 exporting layers done
+#5 writing image sha256:5e6fbfa3e969114c5a218088e6527437f0b85c610df8c13dfa0276316f0c8876 0.1s done
+#5 naming to docker.io/library/83g4j9kz
+#5 naming to docker.io/library/83g4j9kz 0.3s done
+#5 DONE 0.6s
+Creando imagen lss3iov2
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 110B done
+#1 DONE 0.2s
+
+#2 [internal] load metadata for docker.io/library/ubuntu:latest
+#2 DONE 1.3s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.3s
+
+#4 [1/1] FROM docker.io/library/ubuntu:latest@sha256:8a37d68f4f73ebf3d4efafbcf66379bf3728902a8038616808f04e34a9ab63ee
+#4 CACHED
+
+#5 exporting to image
+#5 exporting layers done
+#5 writing image sha256:5e6fbfa3e969114c5a218088e6527437f0b85c610df8c13dfa0276316f0c8876 0.0s done
+#5 naming to docker.io/library/lss3iov2
+#5 naming to docker.io/library/lss3iov2 0.2s done
+#5 DONE 0.4s
+Creando imagen qkb2ld4g
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 29B
+#1 transferring dockerfile: 146B done
+#1 DONE 0.4s
+
+#2 [internal] load metadata for docker.io/library/ubuntu:latest
+#2 DONE 0.8s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.3s
+
+#4 [1/2] FROM docker.io/library/ubuntu:latest@sha256:8a37d68f4f73ebf3d4efafbcf66379bf3728902a8038616808f04e34a9ab63ee
+#4 DONE 0.0s
+
+#5 [2/2] RUN apt-get update && apt-get install -y stress
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:a6262f387333df6c66cb7c3e5b3ed305e9b881d901f1b3f6649729f6b3f9d245 0.1s done
+#6 naming to docker.io/library/qkb2ld4g
+#6 naming to docker.io/library/qkb2ld4g 0.3s done
+#6 DONE 0.5s
+Iniciando contenedor u6C7EOPn con imagen pcdkycn2
+a810fb4e84883e5ff8df3650656c50394d62f3004ea65e7e57cdec9621ed0098
+Iniciando contenedor AJhX4UMc con imagen 83g4j9kz
+4143972d18360f6b58b6223e041321e2e8dd0867a856089ab5c555c5eb620d34
+Iniciando contenedor VImz0fq8 con imagen lss3iov2
+78003ec43ecd4cb22569a773f89600d3efaaecadbfeed0637b173ff29df11765
+Iniciando contenedor zNJ6uLiM con imagen pcdkycn2
+7c8349d49e7cbe407802dfce79b46ceccb56775d027a263edb324ada98ba2761
+Iniciando contenedor uA2rqtqm con imagen qkb2ld4g
+a007361083842e0341b53bef355a523416e561b6e433aa58ee20b902c41889ed
+Iniciando contenedor C6toFyUL con imagen acecbpe7
+ce91ce3301d96ea13447a4977a722cae75e96ea6c71de7d8a488895c1719a492
+Iniciando contenedor wtwVY29j con imagen pcdkycn2
+78b978a59bb07f36a3aa6c961df736f276d82f1cf05b681815a01dc13fb23f32
+Iniciando contenedor Bap9u5jD con imagen 4idu4yqo
+7092d7f3c844dda4b57e7bea095351bcec56cecdfca19576df42871ee6bc6680
+Iniciando contenedor roWtPEhJ con imagen 0p8ihvdh
+f4ef473b0179388c4d4a91a741ffdc4132ca32d67d0d8799c7e5630b41af79fd
+Iniciando contenedor L2KcIiK6 con imagen 4idu4yqo
+8b47be0f14d88f16bd2432cf5243ab8f1c45cfc75aa6d783f6b7213460d327c9
+Creando imagen xnmvz0ye
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 146B done
+#1 DONE 0.3s
+
+#2 [internal] load metadata for docker.io/library/ubuntu:latest
+#2 DONE 1.3s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.2s
+
+#4 [1/2] FROM docker.io/library/ubuntu:latest@sha256:8a37d68f4f73ebf3d4efafbcf66379bf3728902a8038616808f04e34a9ab63ee
+#4 DONE 0.0s
+
+#5 [2/2] RUN apt-get update && apt-get install -y stress
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:a6262f387333df6c66cb7c3e5b3ed305e9b881d901f1b3f6649729f6b3f9d245 0.0s done
+#6 naming to docker.io/library/xnmvz0ye
+#6 naming to docker.io/library/xnmvz0ye 0.1s done
+#6 DONE 0.2s
+Creando imagen 1t8fkzu7
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 110B done
+#1 DONE 0.2s
+
+#2 [internal] load metadata for docker.io/library/ubuntu:latest
+#2 DONE 0.7s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.3s
+
+#4 [1/1] FROM docker.io/library/ubuntu:latest@sha256:8a37d68f4f73ebf3d4efafbcf66379bf3728902a8038616808f04e34a9ab63ee
+#4 CACHED
+
+#5 exporting to image
+#5 exporting layers done
+#5 writing image sha256:5e6fbfa3e969114c5a218088e6527437f0b85c610df8c13dfa0276316f0c8876
+#5 writing image sha256:5e6fbfa3e969114c5a218088e6527437f0b85c610df8c13dfa0276316f0c8876 0.0s done
+#5 naming to docker.io/library/1t8fkzu7 0.1s done
+#5 DONE 0.2s
+Creando imagen u9t4u5y8
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 146B done
+#1 DONE 0.2s
+
+#2 [internal] load metadata for docker.io/library/ubuntu:latest
+#2 DONE 0.7s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.2s
+
+#4 [1/2] FROM docker.io/library/ubuntu:latest@sha256:8a37d68f4f73ebf3d4efafbcf66379bf3728902a8038616808f04e34a9ab63ee
+#4 DONE 0.0s
+
+#5 [2/2] RUN apt-get update && apt-get install -y stress
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:a6262f387333df6c66cb7c3e5b3ed305e9b881d901f1b3f6649729f6b3f9d245 0.0s done
+#6 naming to docker.io/library/u9t4u5y8 0.1s done
+#6 DONE 0.4s
+Creando imagen 26c72p9l
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 146B done
+#1 DONE 0.3s
+
+#2 [internal] load metadata for docker.io/library/ubuntu:latest
+#2 DONE 0.8s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.3s
+
+#4 [1/2] FROM docker.io/library/ubuntu:latest@sha256:8a37d68f4f73ebf3d4efafbcf66379bf3728902a8038616808f04e34a9ab63ee
+#4 DONE 0.0s
+
+#5 [2/2] RUN apt-get update && apt-get install -y stress
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:a6262f387333df6c66cb7c3e5b3ed305e9b881d901f1b3f6649729f6b3f9d245 0.0s done
+#6 naming to docker.io/library/26c72p9l
+#6 naming to docker.io/library/26c72p9l 0.1s done
+#6 DONE 0.1s
+Creando imagen c37oogky
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 146B done
+#1 DONE 0.3s
+
+#2 [internal] load metadata for docker.io/library/ubuntu:latest
+#2 DONE 0.8s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.3s
+
+#4 [1/2] FROM docker.io/library/ubuntu:latest@sha256:8a37d68f4f73ebf3d4efafbcf66379bf3728902a8038616808f04e34a9ab63ee
+#4 DONE 0.0s
+
+#5 [2/2] RUN apt-get update && apt-get install -y stress
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:a6262f387333df6c66cb7c3e5b3ed305e9b881d901f1b3f6649729f6b3f9d245 0.1s done
+#6 naming to docker.io/library/c37oogky 0.1s done
+#6 DONE 0.2s
+Creando imagen z77jrp1c
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 110B done
+#1 DONE 0.3s
+
+#2 [internal] load metadata for docker.io/library/ubuntu:latest
+#2 DONE 0.6s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.3s
+
+#4 [1/1] FROM docker.io/library/ubuntu:latest@sha256:8a37d68f4f73ebf3d4efafbcf66379bf3728902a8038616808f04e34a9ab63ee
+#4 CACHED
+
+#5 exporting to image
+#5 exporting layers done
+#5 writing image sha256:5e6fbfa3e969114c5a218088e6527437f0b85c610df8c13dfa0276316f0c8876 0.0s done
+#5 naming to docker.io/library/z77jrp1c 0.1s done
+#5 DONE 0.2s
+Creando imagen ngue304c
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 110B done
+#1 DONE 0.2s
+
+#2 [internal] load metadata for docker.io/library/ubuntu:latest
+#2 DONE 0.6s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.2s
+
+#4 [1/1] FROM docker.io/library/ubuntu:latest@sha256:8a37d68f4f73ebf3d4efafbcf66379bf3728902a8038616808f04e34a9ab63ee
+#4 CACHED
+
+#5 exporting to image
+#5 exporting layers done
+#5 writing image sha256:faf3850eae1ee106f19cb84fa06b56a4f220019f19445994021ebc8c79f120b2 0.1s done
+#5 naming to docker.io/library/ngue304c
+#5 naming to docker.io/library/ngue304c 0.2s done
+#5 DONE 0.4s
+Creando imagen qudzfktb
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 110B done
+#1 DONE 0.2s
+
+#2 [internal] load metadata for docker.io/library/ubuntu:latest
+#2 DONE 1.3s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.3s
+
+#4 [1/1] FROM docker.io/library/ubuntu:latest@sha256:8a37d68f4f73ebf3d4efafbcf66379bf3728902a8038616808f04e34a9ab63ee
+#4 CACHED
+
+#5 exporting to image
+#5 exporting layers
+#5 exporting layers done
+#5 writing image sha256:5e6fbfa3e969114c5a218088e6527437f0b85c610df8c13dfa0276316f0c8876 0.1s done
+#5 naming to docker.io/library/qudzfktb
+#5 naming to docker.io/library/qudzfktb 0.2s done
+#5 DONE 0.5s
+Creando imagen epfk1zb5
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 146B done
+#1 DONE 0.2s
+
+#2 [internal] load metadata for docker.io/library/ubuntu:latest
+#2 DONE 1.1s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.2s
+
+#4 [1/2] FROM docker.io/library/ubuntu:latest@sha256:8a37d68f4f73ebf3d4efafbcf66379bf3728902a8038616808f04e34a9ab63ee
+#4 DONE 0.0s
+
+#5 [2/2] RUN apt-get update && apt-get install -y stress
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:a6262f387333df6c66cb7c3e5b3ed305e9b881d901f1b3f6649729f6b3f9d245
+#6 writing image sha256:a6262f387333df6c66cb7c3e5b3ed305e9b881d901f1b3f6649729f6b3f9d245 0.0s done
+#6 naming to docker.io/library/epfk1zb5 0.1s done
+#6 DONE 0.1s
+Creando imagen hamxc5af
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile:
+#1 transferring dockerfile: 110B done
+#1 DONE 0.3s
+
+#2 [internal] load metadata for docker.io/library/ubuntu:latest
+#2 DONE 1.7s
+
+#3 [internal] load .dockerignore
+#3 transferring context:
+#3 transferring context: 2B done
+#3 DONE 0.5s
+
+#4 [1/1] FROM docker.io/library/ubuntu:latest@sha256:8a37d68f4f73ebf3d4efafbcf66379bf3728902a8038616808f04e34a9ab63ee
+#4 CACHED
+
+#5 exporting to image
+#5 exporting layers done
+#5 writing image sha256:5e6fbfa3e969114c5a218088e6527437f0b85c610df8c13dfa0276316f0c8876
+#5 writing image sha256:5e6fbfa3e969114c5a218088e6527437f0b85c610df8c13dfa0276316f0c8876 0.0s done
+#5 naming to docker.io/library/hamxc5af 0.1s done
+#5 DONE 0.2s
+Iniciando contenedor zNeNr2IX con imagen 26c72p9l
+3ef5d6168ebcdbc46122f037cdb0f7eb2aa689066acd15901b9ca26d7022a291
+Iniciando contenedor Ee7ypVAY con imagen z77jrp1c
+37922ca29fb8e61025a3dc289b6000141cca867c7c785e439d4892aaa111ecf2
+Iniciando contenedor W0qfU0o5 con imagen u9t4u5y8
+3286498b48c0c89b328c87ac10a120fc3cafa1d232022268ccf976e103212fd0
+Iniciando contenedor UOQCcnWR con imagen ngue304c
+d22900de25c524e335a57654cb32245f68be0dedbdc585b2fb6667baba440701
+Iniciando contenedor 1n60WqIY con imagen u9t4u5y8
+9c6ba2679c48d44fe77e6c07e534ebaa022a4567a11f24c9d061634e38349f14
+Iniciando contenedor s7iO8s70 con imagen epfk1zb5
+be80d69e35cc36cda399f0845d8313ae2a4a38adea465d5348102afcbf031ffe
+Iniciando contenedor u3n2vsVR con imagen 1t8fkzu7
+84b7d3606deead14744daf3caf59513e20d552c17342f1eaf68e444805feff5b
+Iniciando contenedor GI01qXDQ con imagen xnmvz0ye
+21cc0d8173e9b019f234e278d7ecad913bb55bdba6992566b15f173f402149c7
+Iniciando contenedor ZgejxO0r con imagen c37oogky
+ba7d4129cb204eb08752d2c9f0f979f05bb367a7d7a2aabbb3308739d4d6db6c
+Iniciando contenedor 8GV2nMFd con imagen qudzfktb
+6fc1b0f1dd8b1528d12ad290c5dc88c36c2cba879d75cbabb12efa4651a7a7c1
+Creando imagen 341r4f5v
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 146B done
+#1 DONE 0.2s
+
+#2 [internal] load metadata for docker.io/library/ubuntu:latest
+#2 DONE 1.1s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.2s
+
+#4 [1/2] FROM docker.io/library/ubuntu:latest@sha256:8a37d68f4f73ebf3d4efafbcf66379bf3728902a8038616808f04e34a9ab63ee
+#4 DONE 0.0s
+
+#5 [2/2] RUN apt-get update && apt-get install -y stress
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:a6262f387333df6c66cb7c3e5b3ed305e9b881d901f1b3f6649729f6b3f9d245 0.0s done
+#6 naming to docker.io/library/341r4f5v 0.1s done
+#6 DONE 0.2s
+Creando imagen 4kitqbxg
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 110B done
+#1 DONE 0.5s
+
+#2 [internal] load metadata for docker.io/library/ubuntu:latest
+#2 DONE 1.1s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.3s
+
+#4 [1/1] FROM docker.io/library/ubuntu:latest@sha256:8a37d68f4f73ebf3d4efafbcf66379bf3728902a8038616808f04e34a9ab63ee
+#4 CACHED
+
+#5 exporting to image
+#5 exporting layers done
+#5 writing image sha256:faf3850eae1ee106f19cb84fa06b56a4f220019f19445994021ebc8c79f120b2
+#5 writing image sha256:faf3850eae1ee106f19cb84fa06b56a4f220019f19445994021ebc8c79f120b2 0.1s done
+#5 naming to docker.io/library/4kitqbxg
+#5 naming to docker.io/library/4kitqbxg 0.2s done
+#5 DONE 0.4s
+Creando imagen wukwew4o
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 110B done
+#1 DONE 0.2s
+
+#2 [internal] load metadata for docker.io/library/ubuntu:latest
+#2 DONE 0.6s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.3s
+
+#4 [1/1] FROM docker.io/library/ubuntu:latest@sha256:8a37d68f4f73ebf3d4efafbcf66379bf3728902a8038616808f04e34a9ab63ee
+#4 CACHED
+
+#5 exporting to image
+#5 exporting layers
+#5 exporting layers done
+#5 writing image sha256:faf3850eae1ee106f19cb84fa06b56a4f220019f19445994021ebc8c79f120b2 0.0s done
+#5 naming to docker.io/library/wukwew4o 0.1s done
+#5 DONE 0.2s
+Creando imagen 1d7ww9ci
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile:
+#1 transferring dockerfile: 110B done
+#1 DONE 0.5s
+
+#2 [internal] load metadata for docker.io/library/ubuntu:latest
+#2 DONE 0.5s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.2s
+
+#4 [1/1] FROM docker.io/library/ubuntu:latest@sha256:8a37d68f4f73ebf3d4efafbcf66379bf3728902a8038616808f04e34a9ab63ee
+#4 CACHED
+
+#5 exporting to image
+#5 exporting layers
+#5 exporting layers done
+#5 writing image sha256:faf3850eae1ee106f19cb84fa06b56a4f220019f19445994021ebc8c79f120b2 0.1s done
+#5 naming to docker.io/library/1d7ww9ci 0.1s done
+#5 DONE 0.2s
+Creando imagen jd0ctmsh
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 110B done
+#1 DONE 0.3s
+
+#2 [internal] load metadata for docker.io/library/ubuntu:latest
+#2 DONE 0.6s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.3s
+
+#4 [1/1] FROM docker.io/library/ubuntu:latest@sha256:8a37d68f4f73ebf3d4efafbcf66379bf3728902a8038616808f04e34a9ab63ee
+#4 CACHED
+
+#5 exporting to image
+#5 exporting layers done
+#5 writing image sha256:5e6fbfa3e969114c5a218088e6527437f0b85c610df8c13dfa0276316f0c8876 0.0s done
+#5 naming to docker.io/library/jd0ctmsh 0.1s done
+#5 DONE 0.1s
+Creando imagen 0or9u1aa
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile:
+#1 transferring dockerfile: 182B done
+#1 DONE 0.4s
+
+#2 [internal] load metadata for docker.io/library/ubuntu:latest
+#2 DONE 0.4s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.4s
+
+#4 [1/2] FROM docker.io/library/ubuntu:latest@sha256:8a37d68f4f73ebf3d4efafbcf66379bf3728902a8038616808f04e34a9ab63ee
+#4 DONE 0.0s
+
+#5 [2/2] RUN apt-get update && apt-get install -y stress
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:473d7b118f878b844729f50c8b395fc8699501390d2287066e4c2a43e95127a3
+#6 writing image sha256:473d7b118f878b844729f50c8b395fc8699501390d2287066e4c2a43e95127a3 0.2s done
+#6 naming to docker.io/library/0or9u1aa
+#6 naming to docker.io/library/0or9u1aa 0.1s done
+#6 DONE 0.2s
+Creando imagen 26je0nja
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 110B done
+#1 DONE 0.2s
+
+#2 [internal] load metadata for docker.io/library/ubuntu:latest
+#2 DONE 0.5s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.2s
+
+#4 [1/1] FROM docker.io/library/ubuntu:latest@sha256:8a37d68f4f73ebf3d4efafbcf66379bf3728902a8038616808f04e34a9ab63ee
+#4 CACHED
+
+#5 exporting to image
+#5 exporting layers done
+#5 writing image sha256:faf3850eae1ee106f19cb84fa06b56a4f220019f19445994021ebc8c79f120b2 0.0s done
+#5 naming to docker.io/library/26je0nja
+#5 naming to docker.io/library/26je0nja 0.1s done
+#5 DONE 0.1s
+Creando imagen 7xrbol79
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 110B done
+#1 DONE 0.3s
+
+#2 [internal] load metadata for docker.io/library/ubuntu:latest
+#2 DONE 0.5s
+
+#3 [internal] load .dockerignore
+#3 transferring context:
+#3 transferring context: 2B done
+#3 DONE 0.3s
+
+#4 [1/1] FROM docker.io/library/ubuntu:latest@sha256:8a37d68f4f73ebf3d4efafbcf66379bf3728902a8038616808f04e34a9ab63ee
+#4 CACHED
+
+#5 exporting to image
+#5 exporting layers done
+#5 writing image sha256:faf3850eae1ee106f19cb84fa06b56a4f220019f19445994021ebc8c79f120b2 0.0s done
+#5 naming to docker.io/library/7xrbol79
+#5 naming to docker.io/library/7xrbol79 0.1s done
+#5 DONE 0.1s
+Creando imagen vfqlhhl6
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 182B done
+#1 DONE 0.2s
+
+#2 [internal] load metadata for docker.io/library/ubuntu:latest
+#2 DONE 0.4s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.2s
+
+#4 [1/2] FROM docker.io/library/ubuntu:latest@sha256:8a37d68f4f73ebf3d4efafbcf66379bf3728902a8038616808f04e34a9ab63ee
+#4 DONE 0.0s
+
+#5 [2/2] RUN apt-get update && apt-get install -y stress
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:473d7b118f878b844729f50c8b395fc8699501390d2287066e4c2a43e95127a3 0.1s done
+#6 naming to docker.io/library/vfqlhhl6
+#6 naming to docker.io/library/vfqlhhl6 0.1s done
+#6 DONE 0.2s
+Creando imagen shsrh2z6
+#0 building with "default" instance using docker driver
+
+#1 [internal] load build definition from Dockerfile
+#1 transferring dockerfile: 182B done
+#1 DONE 0.2s
+
+#2 [internal] load metadata for docker.io/library/ubuntu:latest
+#2 DONE 0.5s
+
+#3 [internal] load .dockerignore
+#3 transferring context: 2B done
+#3 DONE 0.2s
+
+#4 [1/2] FROM docker.io/library/ubuntu:latest@sha256:8a37d68f4f73ebf3d4efafbcf66379bf3728902a8038616808f04e34a9ab63ee
+#4 DONE 0.0s
+
+#5 [2/2] RUN apt-get update && apt-get install -y stress
+#5 CACHED
+
+#6 exporting to image
+#6 exporting layers done
+#6 writing image sha256:473d7b118f878b844729f50c8b395fc8699501390d2287066e4c2a43e95127a3
+#6 writing image sha256:473d7b118f878b844729f50c8b395fc8699501390d2287066e4c2a43e95127a3 0.0s done
+#6 naming to docker.io/library/shsrh2z6 0.1s done
+#6 DONE 0.2s
+Iniciando contenedor 3DkZwhCR con imagen 7xrbol79
+33a18fc055377f6349aaa7cecee73526e83bc3ef57f07d9ca6f683bc910f045d
+Iniciando contenedor 2NwOAMR5 con imagen 7xrbol79
+756a1706532f56a2564acc24dd7454ccaa6bdbf582c5fb1828660ac5df078302
+Iniciando contenedor YpmZyxSC con imagen 0or9u1aa
+a702a35f08cfa3963caa581a3e07e90f4df0f1a76a2f54f00d35845dbfd302a2
+Iniciando contenedor kWMsvKN3 con imagen jd0ctmsh
+6b62e63cc2e19abb4a17757e0d6ab0967630add104d1b01658ea005fbd2a1f12
+Iniciando contenedor Y1rjnc1t con imagen vfqlhhl6
+2d967ac44b263819f60d41140d6f81faacecd3c0616630c966aec116e882d0c7
+Iniciando contenedor 6diGDIyT con imagen 341r4f5v
+1620a27db57414aff2f7f2c24ec22f6272cdc36b5ad741f6bcde94033868d647
+Iniciando contenedor D45SMOfO con imagen wukwew4o
+b95f9942fe9943e6c8577bbd8fc988159c626362c445b327f6518ae055b0d24f
+Iniciando contenedor RhN8PIzK con imagen 0or9u1aa
+23cb82e79ba26b9e3e8824fe4d493a11b7ea1bd26ba9bcca08514f787e50f171
+Iniciando contenedor wBBHw5xA con imagen 4kitqbxg
+e420b559c0e7cec4ac1d65a2c6a25d497625912fc81c48d22c60a81902d82c7e
+Iniciando contenedor Ybps6prZ con imagen 26je0nja
+bbeef63af1f87e4bd05275c1ddd3b954cd821fe23e6fd6e5a6d1107f1abfd3c4
