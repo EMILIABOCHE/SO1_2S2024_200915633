@@ -2,6 +2,31 @@ use std::fs::File;
 use std::io::{self, Read};
 use std::path::Path;
 use serde::{Deserialize, Serialize};
+use reqwest::blocking::Client;
+use serde_json::json;
+
+
+///funcion para comunicarse con el servicio en python sevisPython
+fn send_log_to_python(log: &LogProcess) {
+    let client = Client::new();
+    let res = client.post("http://localhost:5000/log")
+        .json(&json!({
+            "pid": log.pid,
+            "container_id": log.container_id,
+            "name": log.name,
+            "memory_usage": log.memory_usage,
+            "cpu_usage": log.cpu_usage,
+        }))
+        .send();
+        
+    match res {
+        Ok(response) => println!("Log enviado correctamente: {:?}", response),
+        Err(e) => println!("Error enviando log: {}", e),
+    }
+}
+
+
+
 
 // CREACIÓN DE STRUCT
 
@@ -151,17 +176,36 @@ impl PartialOrd for Process {
     - Regresa un std::process::Output que contiene la salida del comando que se ejecutó.
 */
 fn kill_container(id: &str) -> std::process::Output {
-    let  output = std::process::Command::new("sudo")
+    // Obtenemos las etiquetas del contenedor
+    let inspect_output = std::process::Command::new("sudo")
+        .arg("docker")
+        .arg("inspect")
+        .arg("--format")
+        .arg("{{.Config.Labels}}")
+        .arg(id)
+        .output()
+        .expect("failed to execute docker inspect");
+
+    let inspect_stdout = String::from_utf8_lossy(&inspect_output.stdout);
+
+    // Verificamos si el contenedor tiene la etiqueta `no-eliminar`
+    if inspect_stdout.contains("no-eliminar") {
+        println!("El contenedor con ID {} tiene la etiqueta `no-eliminar`, no será eliminado.", id);
+        return inspect_output;
+    }
+
+    // Si no tiene la etiqueta, matamos el contenedor
+    let output = std::process::Command::new("sudo")
         .arg("docker")
         .arg("stop")
         .arg(id)
         .output()
-        .expect("failed to execute process");
+        .expect("failed to execute docker stop");
 
     println!("Matando contenedor con id: {}", id);
-
     output
 }
+
 
 fn analyzer( system_info:  SystemInfo) {
 
