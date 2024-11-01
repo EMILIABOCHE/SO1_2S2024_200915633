@@ -1,17 +1,18 @@
 from locust import HttpUser, task, between
 import random
 
-class FacultyUser(HttpUser):
-    wait_time = between(1, 5)  # Tiempo de espera entre peticiones
+class WebsiteUser(HttpUser):
+    wait_time = between(1, 2)
+
+    faculties = ["Ingeniería", "Agronomía"]
+    disciplines = [1, 2, 3]  # Natación, Atletismo, Boxeo
 
     @task
-    def send_traffic(self):
-        faculty_type = random.choice(["Ingeniería", "Agronomía"])
-        discipline = random.choice([1, 2, 3])  # 1=Natación, 2=Atletismo, 3=Boxeo
-        
-        payload = {
-            "faculty": faculty_type,
+    def send_request(self):
+        faculty = random.choice(self.faculties)
+        discipline = random.choice(self.disciplines)
+        path = "/ingenieria" if faculty == "Ingeniería" else "/agronomia"
+        self.client.post(path, json={
+            "faculty": faculty,
             "discipline": discipline
-        }
-
-        self.client.post("/ingress-path", json=payload)
+        })

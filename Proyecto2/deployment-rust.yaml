@@ -1,0 +1,31 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: agronomia-deployment
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: agronomia
+  template:
+    metadata:
+      labels:
+        app: agronomia
+    spec:
+      containers:
+      - name: agronomia-container
+        image: <rust-image>
+        ports:
+        - containerPort: 80
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: agronomia-service
+spec:
+  selector:
+    app: agronomia
+  ports:
+    - protocol: TCP
+      port: 80
+      targetPort: 80

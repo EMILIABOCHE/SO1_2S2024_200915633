@@ -1,0 +1,31 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: ingenieria-deployment
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: ingenieria
+  template:
+    metadata:
+      labels:
+        app: ingenieria
+    spec:
+      containers:
+      - name: ingenieria-container
+        image: <golang-image>
+        ports:
+        - containerPort: 80
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: ingenieria-service
+spec:
+  selector:
+    app: ingenieria
+  ports:
+    - protocol: TCP
+      port: 80
+      targetPort: 80

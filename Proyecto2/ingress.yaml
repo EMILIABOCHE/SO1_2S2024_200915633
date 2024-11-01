@@ -1,0 +1,22 @@
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: faculty-ingress
+spec:
+  rules:
+  - http:
+      paths:
+      - path: /ingenieria
+        pathType: Prefix
+        backend:
+          service:
+            name: ingenieria-service
+            port:
+              number: 80
+      - path: /agronomia
+        pathType: Prefix
+        backend:
+          service:
+            name: agronomia-service
+            port:
+              number: 80
